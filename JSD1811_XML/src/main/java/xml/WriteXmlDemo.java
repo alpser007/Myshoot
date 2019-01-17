@@ -12,7 +12,7 @@ import org.dom4j.io.XMLWriter;
 
 /**
  * Ð´³öXMLÎÄµµ
- * @author ta
+ * @author Neils
  *
  */
 public class WriteXmlDemo {
